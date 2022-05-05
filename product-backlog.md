@@ -191,6 +191,7 @@
 
 * As a trainer, I can read information of relevance only to trainers.
 * As a site editor, I can post information in a trainers-only section.
+* As a contributor, I can add information in the contrib-section.  
 
 ---
 
